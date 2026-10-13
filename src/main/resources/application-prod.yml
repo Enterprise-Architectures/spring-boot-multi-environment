@@ -1,0 +1,8 @@
+app:
+  data:
+    path: classpath:data/production.psv
+    format: pipe
+    delimiter: '|'
+    encoding: UTF-8
+  demo:
+    precedence-message: from-profile-yml

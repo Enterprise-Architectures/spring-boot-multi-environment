@@ -1,0 +1,6 @@
+[
+  {"id":10,"name":"Alex","course":"Enterprise Architectures"},
+  {"id":11,"name":"Ioana","course":"Spring Profiles"},
+  {"id":12,"name":"Maria","course":"Actuator"},
+  {"id":13,"name":"Radu","course":"Java"}
+]

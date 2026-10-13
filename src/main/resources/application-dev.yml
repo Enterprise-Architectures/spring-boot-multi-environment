@@ -1,0 +1,8 @@
+app:
+  data:
+    path: classpath:data/development.csv
+    format: csv
+    delimiter: ','
+  demo:
+    precedence-message: from-profile-yml
+

@@ -1,0 +1,5 @@
+id|name|value
+10|delta|production-one
+20|epsilon|production-two
+30|zeta|production-three
+40|eta|production-four
